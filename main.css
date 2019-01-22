@@ -1,0 +1,57 @@
+body {
+    background-image: url('./assets/1_8PvVwjgMattGxmtijNREdA.png');
+    background-size: cover;
+}
+
+.picture {
+    width: 400px;
+    height: 300px;
+    padding: 0px;
+    margin: 0px;
+    /* padding: 0px;
+    margin: 0px; */
+}
+/* form {
+    font-size: 20px;
+    margin: 0;
+    padding: 0px;
+} */
+
+h1 {
+    font-size: 40px;
+    color: white;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    
+}
+
+.dropdown {
+    text-align: left;
+    top: 200px;
+    right: 500px;
+    /* width: 200px;
+    height: 200px; */
+
+}
+
+#submit {
+    width: 100px;
+    height: 25px;
+}
+
+ul {
+    padding: 0px;
+    margin: 0px;
+}
+
+img {
+    /* background-image: 3px 3px 3px 3px;
+    background-image: center; */
+    
+}
+
+p {
+    color: white;
+    background-color: black;
+}
